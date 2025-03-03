@@ -36,6 +36,6 @@ I am **Mojtaba Shavandi**, a passionate, intelligent, and brilliant individual i
 - And many other projects where I have found the right solution on the spot...
 
 ## 📫 Contact Information
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [Mr.mojtaba.shavandi@outlook.com](mailto:Mr.Mojtaba.Shavandi@outlook.com)
 - **GitHub:** [Mojtaba-Shavandi](https://github.com/Mojtaba-Shavandi)
 - **LinkedIn:** [linkedin.com/in/Mojtaba-Shavandi](https://www.linkedin.com/in/Mojtaba-Shavandi)
